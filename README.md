@@ -7,7 +7,7 @@ Projeto individual - Carla Bruckmann.
 - [Documentação](https://www.notion.so/Documenta-o-1c1d4ec7c31680028b48f22b5bb10cc4?pvs=21)
 - [Planilha](https://docs.google.com/spreadsheets/d/1MGBgbYxkxNDSzJEIpB21-fjVKRQPNNd6xVdKlGZZ4hk/edit?gid=918502877#gid=918502877)
 - [Apresentação](https://docs.google.com/presentation/d/1ohcnpA49ciVYfdtTcZ1p4hTc7BL4ZGN3MdTtNt8mOX4/edit?usp=sharing)
-- [Vídeo](loom.com/share/999dfe3550a64a5e9f7a604d26cdd14c)
+- [Vídeo](https://www.loom.com/share/999dfe3550a64a5e9f7a604d26cdd14c)
 
 ### 2. Objetivo da Análise:
 
