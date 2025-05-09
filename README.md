@@ -8,7 +8,7 @@ Projeto individual - Carla Bruckmann.
 - [Planilha](https://docs.google.com/spreadsheets/d/1MGBgbYxkxNDSzJEIpB21-fjVKRQPNNd6xVdKlGZZ4hk/edit?gid=918502877#gid=918502877)
 - [Apresentação](https://docs.google.com/presentation/d/1ohcnpA49ciVYfdtTcZ1p4hTc7BL4ZGN3MdTtNt8mOX4/edit?usp=sharing)
 - [Vídeo](https://www.loom.com/share/999dfe3550a64a5e9f7a604d26cdd14c)
-
+  
 ### 2. Objetivo da Análise:
 
 Esta análise tem como objetivo orientar **"O Mercado"** na adaptação e reconhecimento de perfil de clientes, otimizando estratégias **retenção** e **crescimento**. Para isso, será aplicada a metodologia **RFM (Recência, Frequência e Valor Monetário)**, que permite segmentar os clientes com base em seu comportamento de compra.
@@ -353,4 +353,7 @@ Período de dados: de 30/07/2020 à 31/12/2022.
     - [Segmentação de Clientes - Eudito Magul (GitHub).](https://eudito.github.io/SegmentacaoClientes.html)
     - [Gemini AI](https://gemini.google.com/app?hl=pt-BR).
     - [Chatgpt AI](https://chatgpt.com/).
-    - [Gamma AI](https://gamma.app/) 
+    - [Gamma AI](https://gamma.app/)
+ 
+    - **Feedback do projeto - Coach de avaliação Laboratória**
+![image](https://github.com/user-attachments/assets/25eb1bbf-23d9-4a54-8361-e3f49849322b)
